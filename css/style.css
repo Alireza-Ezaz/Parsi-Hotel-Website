@@ -227,7 +227,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    /*background-image: url(../images/banner-bg.png);*/
+    background-image: url(../images/banner-bg.png);
     background-color: #5d5b5b;
     height: auto;
     background-size: 100%;
@@ -438,6 +438,7 @@ button {
     width: 100%;
     float: left;
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .box_main {
